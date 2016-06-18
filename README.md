@@ -3,7 +3,7 @@ Docker container for murmur (mumble-server)
 
 ## Getting started
 
-1. Launch with `docker run -d wdhif/murmur`
+1. Launch with `docker run -d wdhif/docker-murmur`
 2. Get container id with `docker ps`
 3. Get `SuperUser` password and server ip with `docker logs CONTAINER_ID`
 4. Connect with mumble to the container IP
