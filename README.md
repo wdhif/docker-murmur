@@ -1,4 +1,6 @@
 # docker-murmur
+[![](https://images.microbadger.com/badges/image/wdhif/docker-murmur.svg)](https://microbadger.com/images/wdhif/docker-murmur "Get your own image badge on microbadger.com")
+
 Docker container for murmur (mumble-server)
 
 ## Getting started
